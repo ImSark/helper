@@ -1,1 +1,1 @@
-avtoridod333
+print("avtoridod333")
